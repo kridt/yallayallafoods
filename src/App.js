@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Front from './pages/Front';
 
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to Yalla Yalla Foods</h1>
+      <Front />
     </div>
   );
 }
